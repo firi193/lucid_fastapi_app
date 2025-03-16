@@ -63,7 +63,7 @@ The application will be accessible at http://127.0.0.1:8000.
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/ee345fa8-99d7-4b85-aad1-8aaa5e8d3c9b" />
 
 #### Sign In
-
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/6d6c21d3-f40c-42ca-8c32-e724a5d8d33c" />
 
 #### Add post
 <img width="890" alt="image" src="https://github.com/user-attachments/assets/ac4177fc-dc93-4a03-b700-6e98fd194c34" />
